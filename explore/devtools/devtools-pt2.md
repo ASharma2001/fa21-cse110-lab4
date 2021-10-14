@@ -1,0 +1,2 @@
+1) The bug is that it is concatenating the two items. This is because they are both strings, so it will concatenate them and not add them up.
+2) I would convert the two item entries into numbers and then add them.
